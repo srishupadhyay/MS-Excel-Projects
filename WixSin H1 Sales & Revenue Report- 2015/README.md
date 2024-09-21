@@ -1,11 +1,7 @@
 # WIXSIN H1 SALES & REVENUE REPORT - 2015
 
-## AIM
-To assist the management of **WixSin Company** in optimizing their sales operations by providing actionable insights derived from a detailed analysis of their H1 sales dataset.
-
-## OBJECTIVES
-The primary objectives of the analysis were to evaluate the company’s performance and identify key areas that influence revenue growth, product sales, and regional performance. Specifically, I aimed to:
-
+## INTRODUCTION
+This project aims to assist WixSin's management in optimizing its sales operations by providing actionable insights from a detailed analysis of the H1 2015 sales dataset.
 
 
 - **Assess if revenue is growing consistently month-over-month.**
@@ -27,7 +23,7 @@ The analysis began by reviewing four key datasets:
 - **Manufacturer** : ManufacturerID and Manufacturer Name.
 - **Location**     : Zip, State, and Country.
 
-Understanding the structure of these datasets helped me determine how to connect them for a meaningful analysis and plan the necessary steps for data preparation to answer the business questions and named different tables from all the sheets using **( CTRL + T )**.
+Understanding the structure of these datasets helped me determine how to connect them for meaningful analysis and plan the necessary steps for data preparation. I named the different tables from all the sheets using **( CTRL + T )**
 
 ## DATA PREPARATION
 The next step involved combining the data across the sheets using **STRUCTURAL REFERENCING** with **INDEX-MATCH** functions for **DATA-MODELING** & **DATA-COMBING**, linking the columns like **Product Name, Category, Segment**, and **State** from different tables. Example formulas used:
@@ -105,7 +101,7 @@ I ensured that categories were correctly assigned to their data types, and after
 
 I used a variety of **PIVOT CHARTS** like **BAR CHART**, **LINE CHART** & **PIE CHART** to answer questions in the objectives. There is a slicer that filters down results based on product segment. A separate **Product Info Finder** gives you the product name, manufacturer name, category, and segment by entering the product ID. There are 2 KPI Indicators on the top showing **Total Revenue** & **Total Units Sold.**
 
-## TRENDS
+## TRENDS & INSIGHTS
 - **Month-over-month revenue:** Revenue sharply increases from the start of January to $791,665, peaking in April at $2,233,855. It falls constantly till June - $1,57,418, creating a peak shape.
 
   
@@ -166,7 +162,8 @@ The above-mentioned offers and seasonal deals should be targeted from Wednesday 
 
 </div>
 
-
+## CONCLUSION
+H1 sales data analysis has revealed clear patterns in revenue growth, product sales, and customer behavior. The Spring season stands out as a period of peak revenue, with specific days of the week showing higher performance. By focusing on targeted promotions and continuing to monitor product or new line launch, WixSin can sustain growth and optimize its sales operations in future quarters.
 
 
 
