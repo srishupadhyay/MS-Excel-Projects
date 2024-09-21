@@ -98,7 +98,10 @@ I ensured that categories were correctly assigned to their data types, and after
 </div>
 </br>
 
-
+<div align="center">
+    <a href="https://github.com/srishupadhyay/MS-Excel-Projects/blob/8cf32fdbeaf2cc054854ce717268967a93c05c23/WixSin%20H1%20Sales%20%26%20Revenue%20Report-%202015/Data%2BSol/DASHBOARD.xlsx">Click here to download Dashboard File</a>
+</div>
+</br>
 
 I used a variety of **PIVOT CHARTS** like **BAR CHART**, **LINE CHART** & **PIE CHART** to answer questions in the objectives. There is a slicer that filters down results based on product segment. A separate **Product Info Finder** gives you the product name, manufacturer name, category, and segment by entering the product ID. There are 2 KPI Indicators on the top showing **Total Revenue** & **Total Units Sold.**
 
